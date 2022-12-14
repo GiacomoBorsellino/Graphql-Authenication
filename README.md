@@ -1,1 +1,1 @@
-# Graphql-Authenication
+# Graphql Authenication
